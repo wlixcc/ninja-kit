@@ -1,0 +1,6 @@
+use_frameworks!
+target 'ninja-kit_Tests' do
+  pod 'ninja-kit', :path => '../'
+  
+  
+end
