@@ -1,0 +1,16 @@
+PODS:
+  - ninja-kit (0.1.0)
+
+DEPENDENCIES:
+  - ninja-kit (from `../`)
+
+EXTERNAL SOURCES:
+  ninja-kit:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ninja-kit: e5655f2d59d1a90a6098a4bdfbd45cd9656a0020
+
+PODFILE CHECKSUM: a4f837d92f4fec4b5a015e39a1efc87912a24ee9
+
+COCOAPODS: 1.8.4

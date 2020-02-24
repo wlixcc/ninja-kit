@@ -1,0 +1,6 @@
+framework module ninja_kit {
+  umbrella header "ninja-kit-umbrella.h"
+
+  export *
+  module * { export * }
+}
