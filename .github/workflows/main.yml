@@ -16,6 +16,6 @@ jobs:
         uses: wlixcc/pod-lib-update-action@1.0.0
         with:
         #spec 仓库路径  
-        spec_repo_url: https://github.com/wlixcc/ninja-specs.git  
+          spec_repo_url: https://github.com/wlixcc/ninja-specs.git  
         #podspec的相对路径  
-        spec_file_path: /ninja-kit.podspec
+          spec_file_path: /ninja-kit.podspec
